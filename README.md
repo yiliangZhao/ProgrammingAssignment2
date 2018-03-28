@@ -1,4 +1,7 @@
 ### Introduction
+$$ min_{U,V} (|\sqrt{W} \odot (A- UV^T)|_F^2 + \lambda (|U|_F^2 + |V|_F^2)), $$
+
+
 
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
